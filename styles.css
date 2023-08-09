@@ -1,24 +1,115 @@
 h1{
-    font-size: 90px;
+    font-size: 40px;
+    color: white;
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+
+    
 }
-p{
-    font-style: italic;
-    font-size: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-}
-body{
-    background-image: url("download.jpg");
-    background-size: cover;
+.dave{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 210px;
+    color: white;
 }
 .bot{
-    background-color: green;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 250px;
     color: white;
-    font-size: 25px;
-}
 
+
+
+}
+.top{
+    width: 750px;
+    block-size: 30px;
+    margin-left: 250px;
+}
+.ping{
+    font-size: 22px;
+    margin-left: 270px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.sec{
+    width: 760px;
+    block-size: 36px;
+    margin-left: 250px;
+}
+.ber{
+    font-size: 22px;
+    margin-left: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.spec{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    margin-left: 300px;
+    
+
+}
+.div{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 250px;
+    color: white;
+}
+html{
+    background-color: rgb(123, 61, 203);
  
+}
+div{
+    background-color: rgb(15, 6, 36);
+}
+#feature{
+    margin-left: 250px;
+    width: 760px;
+    block-size: 38px;
+}
+.bit{
+    margin-left: 250px;
+    background-color: rgb(84, 165, 84);
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+    width: 770px;
+    block-size: 40px;
+}
+.red{
+    font-family: serif;
+    font-size: 15px;
+}
+.street{
+    margin-left: 250px;
+    color: white;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+.ant{
+    margin-left: 250px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+#comment{
+    margin-left: 250px;
+    width: 760px;
+}
+.imp{
+    margin-left: 250px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.feat{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 250px;
+    font-size: 22px;
+}
  
