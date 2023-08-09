@@ -8,20 +8,20 @@ h1{
 .dave{
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 210px;
+    margin: 10px;
     color: white;
 }
 .bot{
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    margin-left: 250px;
+    margin-left: 50px;
     color: white;
 }
 .top{
     width: 750px;
     block-size: 30px;
-    margin-left: 250px;
+    margin-left: 50px;
 }
 .ping{
     font-size: 22px;
@@ -32,38 +32,42 @@ h1{
 .sec{
     width: 760px;
     block-size: 36px;
-    margin-left: 250px;
+    margin-left: 50px;
 }
 .ber{
     font-size: 22px;
-    margin-left: 250px;
+    margin-left: 50px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
 .spec{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 19px;
-    margin-left: 300px;
+    margin-left: 50px;
 }
 .div{
     font-size: 17px;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 250px;
+    margin-left: 50px;
     color: white;
 }
 html{
     background-color: rgb(123, 61, 203);
 }
-div{
+.op{
     background-color: rgb(15, 6, 36);
+    width: 850px;
+    margin-left: 250px;
+    
+
 }
 #feature{
-    margin-left: 250px;
+    margin-left: 50px;
     width: 760px;
     block-size: 38px;
 }
 .bit{
-    margin-left: 250px;
+    margin-left: 50px;
     background-color: rgb(84, 165, 84);
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -76,24 +80,24 @@ div{
     font-size: 15px;
 }
 .street{
-    margin-left: 250px;
+    margin-left: 50px;
     color: white;
     font-size: 17px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 30px;
 }
 .ant{
-    margin-left: 250px;
+    margin-left: 50px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22px;
 }
 #comment{
-    margin-left: 250px;
+    margin-left: 50px;
     width: 760px;
 }
 .imp{
-    margin-left: 250px;
+    margin-left: 50px;
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
@@ -101,7 +105,7 @@ div{
 .feat{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 250px;
+    margin-left: 50px;
     font-size: 22px;
 }
  
